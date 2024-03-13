@@ -6,7 +6,7 @@
 
 
 
-[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/airbnb/javascript?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 
 This guide is available in other languages too. See [Translation](#translation)
 
